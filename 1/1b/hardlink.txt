@@ -1,0 +1,2 @@
+echo "This is hard file example"
+Hello Hard Link
