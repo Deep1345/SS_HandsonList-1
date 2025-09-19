@@ -1,7 +1,7 @@
 /*
 ============================================================================
 Name : 16b.c
-Author : Bhautik Vekariya
+Author : Deep Patel
 Description : Write a program to perform mandatory locking.
                   a. Implement write lock
                   b. Implement read lock   
